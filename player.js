@@ -70,6 +70,7 @@ class Player {
                 }
             } 
 
+            
             if (this.isScanning) {
                 if (!keyIsDown(32)) {
                     this.isScanning = false
