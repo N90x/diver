@@ -71,7 +71,7 @@ class Player {
             } 
 
             if (this.isScanning) {
-                if (!keyIsDown(32) {
+                if (!keyIsDown(32)) {
                     this.isScanning = false
                 }
                 drawItem('Page', this.facingX(9), this.pos.y+bob(0.05, 1.5)-4, 6)
