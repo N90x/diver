@@ -1,0 +1,354 @@
+[
+  {
+    "type": "Corydora",
+    "name": "Pygmy Corydoras",
+    "size": 1,
+    "price": 4,
+    "rarity": "Rare",
+    "img": "https://cdn.shopify.com/s/files/1/1163/2672/products/Pygmy-Corydora-1_1024x1024.jpg?v=1527264067"
+  },
+  {
+    "type": "Corydora",
+    "name": "Panda Cory",
+    "size": 2,
+    "price": 8,
+    "rarity": "Uncommon",
+    "img": "https://cdn.shopify.com/s/files/1/1163/2672/products/P1011573-je1_ddd3dc52-735b-4a77-a018-ce286714869f_1024x1024.jpg?v=1459975485"
+  },
+  {
+    "type": "Corydora",
+    "name": "Salt and Pepper Corydora",
+    "size": 1,
+    "price": 6,
+    "rarity": "Uncommon",
+    "img": "https://cdn.shopify.com/s/files/1/1163/2672/products/Salt_and_Pepper_Pygmy_Cory_6_1024x1024.jpg?v=1574345526"
+  },
+  {
+    "type": "Corydora",
+    "name": "Sterbai Corydora",
+    "size": 3,
+    "price": 7,
+    "rarity": "Rare",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Corydoras_Sterbai.jpg"
+  },
+  {
+    "type": "Corydora",
+    "name": "Julii Corydora",
+    "size": 2,
+    "price": 4.5,
+    "rarity": "Rare",
+    "img": "https://www.fishlaboratory.com/wp-content/uploads/2021/11/julii-cory-1024x682.jpg"
+  },
+  {
+    "type": "Plecostomus",
+    "name": "Bristlenose Pleco",
+    "size": 5,
+    "price": 15,
+    "rarity": "Common",
+    "img": "https://www.everythingfishkeeping.com/wp-content/uploads/2021/09/Bristlenose-Pleco.jpg"
+  },
+  {
+    "type": "Plecostomus",
+    "name": "Common Pleco",
+    "size": 20,
+    "price": 4,
+    "rarity": "Common",
+    "img": "https://www.fishlaboratory.com/wp-content/uploads/2022/05/Common-Pleco-1024x641.jpeg"
+  },
+  {
+    "type": "Plecostomus",
+    "name": "Zebra Pleco",
+    "size": 4,
+    "price": 400,
+    "rarity": "Legendary",
+    "img": "https://www.reef2rainforest.com/wp-content/uploads/2016/11/Hypancistrus-zebra-Segrest.jpg"
+  },
+  {
+    "type": "Catfish",
+    "name": "Redtail Catfish",
+    "size": 48,
+    "price": 35,
+    "rarity": "Uncommon",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/06/Phractocephalus_hemioliopterus_2012_G1.jpg"
+  },
+  {
+    "type": "Catfish",
+    "name": "Glass Catfish",
+    "size": 20,
+    "price": 9,
+    "rarity": "Uncommon",
+    "img": "https://a-z-animals.com/media/2022/04/3-glass-catfish-in-an-aquarium.jpg"
+  },
+  {
+    "type": "Catfish",
+    "name": "Gulper Catfish",
+    "size": 10,
+    "price": 50,
+    "rarity": "Common",
+    "img": "https://www.tfhmagazine.com/-/media/Project/OneWeb/TFH/US/articles/399_top_of_the_food_chain_aquarium_care.jpg"
+  },
+  {
+    "type": "Tetra",
+    "name": "Black Phantom Tetra",
+    "size": 1,
+    "price": 2,
+    "rarity": "Uncommon",
+    "img": "https://www.thesprucepets.com/thmb/I3hRuE41jMfcB8kKjEdKXdxZjjk=/1284x963/smart/filters:no_upscale()/Hyphessobrycon_megalopterus_Porte_Doree-58407bc35f9b5851e594b975.jpg"
+  },
+  {
+    "type": "Tetra",
+    "name": "Black Neon tetra",
+    "size": 1,
+    "price": 10,
+    "rarity": "Rare",
+    "img": "https://aquariumpart.com/wp-content/uploads/2021/09/Black-neon-tetra.jpg"
+  },
+  {
+    "type": "Tetra",
+    "name": "Black Skirt Tetra",
+    "size": 2,
+    "price": 4,
+    "rarity": "Uncommon",
+    "img": "https://azgardens.com/wp-content/uploads/2017/06/Black-Skirt-Tropical-Tetra.jpg"
+  },
+  {
+    "type": "Tetra",
+    "name": "Bleeding Heart Tetra",
+    "size": 3,
+    "price": 9,
+    "rarity": "Common",
+    "img": "https://www.aqua-imports.com/wp-content/uploads/2018/05/Bleeding-Heart-Tetra.jpg"
+  },
+  {
+    "type": "Tetra",
+    "name": "Buenos Aires Tetra",
+    "size": 3,
+    "price": 3,
+    "rarity": "Uncommon",
+    "img": "data:image/jpeg;base64,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"
+  },
+  {
+    "type": "Tetra",
+    "name": "Cardinal Tetra",
+    "size": 2,
+    "price": 2,
+    "rarity": "Common",
+    "img": "http://cdn.shopify.com/s/files/1/0311/3149/articles/neon-tetras-and-cardinal-tetras-425779.jpg?v=1659313406"
+  },
+  {
+    "type": "Tetra",
+    "name": "Diamond Tetra",
+    "size": 2,
+    "price": 5,
+    "rarity": "Rare",
+    "img": "https://www.rfitropicalfish.com/wp-content/uploads/2016/06/tetra_diamond.jpg"
+  },
+  {
+    "type": "Tetra",
+    "name": "Ember Tetra",
+    "size": 1,
+    "price": 10,
+    "rarity": "Rare",
+    "img": "https://www.fishparenting.com/wp-content/uploads/2021/12/ember-tetra-1-900x500.jpg"
+  },
+  {
+    "type": "Tetra",
+    "name": "Emperor Tetra",
+    "size": 2,
+    "price": 5,
+    "rarity": "Uncommon",
+    "img": "https://i0.wp.com/aquariumtidings.com/wp-content/uploads/2018/09/Depositphotos_8223814_xl-2015.jpg?fit=2550%2C1700&ssl=1"
+  },
+  {
+    "type": "Tetra",
+    "name": "Green Neon Tetra",
+    "size": 1,
+    "price": 13,
+    "rarity": "Rare",
+    "img": "https://cdn2.bigcommerce.com/server2800/7824a/products/3850/images/9861/GreeNeonTetra2-768x512__95035.1633539788.1280.1280.jpg?c=2"
+  },
+  {
+    "type": "Tetra",
+    "name": "Lemon Tetra",
+    "size": 2,
+    "price": 5,
+    "rarity": "Epic",
+    "img": "https://www.fishlaboratory.com/wp-content/uploads/2021/06/lemon-tetra-1024x768.jpg"
+  },
+  {
+    "type": "Tetra",
+    "name": "Neon Tetra",
+    "size": 1,
+    "price": 3,
+    "rarity": "Uncommon",
+    "img": "https://blog.ferplast.com/wp-content/uploads/2019/03/coppia-pesci-neon-acquario.jpg"
+  },
+  {
+    "type": "Tetra",
+    "name": "Red Phantom Tetra",
+    "size": 2,
+    "price": 6,
+    "rarity": "Rare",
+    "img": "https://p2u4d7g7.stackpathcdn.com/wp-content/uploads/sites/11/2019/02/red-phantom-tetra-600x392.jpg"
+  },
+  {
+    "type": "Tetra",
+    "name": "Rummynose Tetra",
+    "size": 2,
+    "price": 2,
+    "rarity": "Common",
+    "img": "https://cdn.shopify.com/s/files/1/1163/2672/products/Brilliant-Rummynose-Tetra-1_1024x1024.jpg?v=1534972264"
+  },
+  {
+    "type": "Tetra",
+    "name": "Serpae Tetra",
+    "size": 2,
+    "price": 3,
+    "rarity": "Uncommon",
+    "img": "https://aquariumpart.com/wp-content/uploads/2021/09/Serpae-Tetra-101-Care-Diet-Tank-Size-Tank-Mates-More.jpg"
+  },
+  {
+    "type": "Tetra",
+    "name": "Silvertip Tetra",
+    "size": 1,
+    "price": 2,
+    "rarity": "Rare",
+    "img": "https://ueeshop.ly200-cdn.com/u_file/UPAC/UPAC952/1911/photo/77e1840219.jpg"
+  },
+  {
+    "type": "Tetra",
+    "name": "Congo Tetra",
+    "size": 3,
+    "price": 7,
+    "rarity": "Epic",
+    "img": "https://aquadiction.world/img/profile/congo-tetra-5.webp"
+  },
+  {
+    "type": "Hatchetfish",
+    "name": "Common Hatchetfish",
+    "size": 2,
+    "price": 4,
+    "rarity": "Common",
+    "img": "https://azure.wgp-cdn.co.uk/app-practicalfishkeeping/features/50bf863dbe1ff.jpg?&width=600&height=380&bgcolor=ffffff&mode=crop&format=webp&webp.quality=40&scale=both"
+  },
+  {
+    "type": "Silver Dollar",
+    "name": "Silver Dollar",
+    "size": 6,
+    "price": 70,
+    "rarity": "Uncommon",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Silver_dollar_-_Metynnis_argenteus.jpg"
+  },
+  {
+    "type": "Pacu",
+    "name": "Red Belly Pacu",
+    "size": 48,
+    "price": 12,
+    "rarity": "Epic",
+    "img": "https://i.pinimg.com/originals/83/4e/70/834e7077de60f166ab3896c03154843d.jpg"
+  },
+  {
+    "type": "Piranha",
+    "name": "Red Belly Piranha",
+    "size": 13,
+    "price": 650,
+    "rarity": "Legendary",
+    "img": "https://i.natgeofe.com/k/0df2e846-a562-4080-806c-c547b3728e51/red-bellied-piranha-solo_3x2.jpg"
+  },
+  {
+    "type": "Lake Malawi Cichlid",
+    "name": "Rusty Cichlid",
+    "size": 4,
+    "price": 15,
+    "rarity": "Uncommon",
+    "img": "https://aquariumfishcity.com/wp-content/uploads/2022/06/RustyCichlid.jpg"
+  },
+  {
+    "type": "Lake Malawi Cichlid",
+    "name": "Yellow Lab Cichlid",
+    "size": 8,
+    "price": 15,
+    "rarity": "Rare",
+    "img": "https://www.fishlaboratory.com/wp-content/uploads/2021/10/yellow-lab-cichlid-1024x724.jpeg"
+  },
+  {
+    "type": "Other African Cichlids",
+    "name": "Red Jewel Cichlid",
+    "size": 5,
+    "price": 260,
+    "rarity": "Legendary",
+    "img": "https://azgardens.com/wp-content/uploads/2017/06/African-Fire-Jewel-Cichlid.jpg"
+  },
+  {
+    "type": "Other African Cichlids",
+    "name": "Flameback Cichlid",
+    "size": 5,
+    "price": 50,
+    "rarity": "Epic",
+    "img": "http://cdn.shopify.com/s/files/1/0877/8234/products/KyogaFlamebackX_grande.jpg?v=1527713005"
+  },
+  {
+    "type": "Other African Cichlids",
+    "name": "Kribensis",
+    "size": 4,
+    "price": 15,
+    "rarity": "Rare",
+    "img": "https://www.tfhmagazine.com/-/media/Project/OneWeb/TFH/US/articles/262_keeping_kribs.jpg?h=355&iar=0&w=755&hash=B9F78B46D64772E184C9EFD27E2D3A0C"
+  },
+  {
+    "type": "Dwarf Cichlids",
+    "name": "Apistogramma Agassizii",
+    "size": 3,
+    "price": 60,
+    "rarity": "Epic",
+    "img": "https://www.aqualog.de/wp-content/uploads/lexikon/s03309.jpg"
+  },
+  {
+    "type": "Dwarf Cichlids",
+    "name": "Apistogramma Cacatuoides",
+    "size": 5,
+    "price": 50,
+    "rarity": "Epic",
+    "img": "https://www.tfhmagazine.com/-/media/Project/OneWeb/TFH/US/articles/356_the_cockatoo_dwarf_cichlid.jpg?h=355&iar=0&w=755&hash=2D87B13BD69290D6495BFC6363E7050F"
+  },
+  {
+    "type": "Dwarf Cichlids",
+    "name": "German Blue Ram",
+    "size": 3,
+    "price": 8,
+    "rarity": "Rare",
+    "img": "https://aquadiction.world/img/profile/erman-blue-ram-cichlid.webp"
+  },
+  {
+    "type": "Dwarf Cichlids",
+    "name": "Bolivian Ram",
+    "size": 2,
+    "price": 15,
+    "rarity": "Epic",
+    "img": "https://www.discusmadness.com/wp-content/uploads/Bolivian-Ram-3.jpg"
+  },
+  {
+    "type": "Central American Cichlid",
+    "name": "Midas Cichlid",
+    "size": 14,
+    "price": 20,
+    "rarity": "Rare",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Amphilophus_citrinellus_2015_G5.jpg"
+  },
+  {
+    "type": "Central American Cichlid",
+    "name": "Jack Dempsey Cichlid",
+    "size": 8,
+    "price": 25,
+    "rarity": "Rare",
+    "img": "https://i.ytimg.com/vi/AMKAFrfP5zg/maxresdefault.jpg"
+  },
+  {
+    "type": "Central American Cichlid",
+    "name": "Convict Cichlid",
+    "size": 8,
+    "price": 7,
+    "rarity": "Common",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Archocentrus_nigrofasciatus_female.jpg"
+  }
+]
