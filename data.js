@@ -3,7 +3,7 @@ let fishSpecies;
 //let fetchURL = `https://environment.data.gov.uk/ecology/api/v1/species?skip=0&take=250`
 
 async function loadSpecies() {
-    fishSpecies = await loadJSON('/assets/json/fish.json')
+    fishSpecies = await loadJSON('fish.json')
 }
 
 function handleData() {
