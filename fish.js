@@ -124,7 +124,7 @@ class Fish {
 
                     if (this.scan>=100) {
                         discoveredList.push(this.species)
-                        loadSpeciesImage(this.species)
+                        //loadSpeciesImage(this.species)
                         updateCollection()
                         console.log(`Discovered species #${this.species}`)
                     }
