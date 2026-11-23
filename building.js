@@ -7,7 +7,7 @@ let _buildingTiles = [
     { name: 'bottomR', sx: 16, sy: 188, sw: 112, sh: 116 },
     { name: 'bottomL', sx: 144, sy: 188, sw: 112, sh: 116 },
     { name: 'topR', sx: 16, sy: 320, sw: 112, sh: 116 },
-    { name: 'topR', sx: 144, sy: 320, sw: 112, sh: 116 },
+    { name: 'topL', sx: 144, sy: 320, sw: 112, sh: 116 },
     { name: 'pillarL', sx: 209, sy: 16, sw: 47, sh: 80 },
     { name: 'pillarR', sx: 272, sy: 16, sw: 47, sh: 80 },
     { name: 'holeL', sx: 323, sy: 16, sw: 61, sh: 80 },
@@ -130,5 +130,6 @@ function mousePressed(e) {
             builds.splice(builds.length-1, 1)
         }
     }
+
 
 }
