@@ -80,6 +80,15 @@ function keyPressed() {
         submarine.exit()
       }
     }
+
+    if (buildingMode) {
+      if (key == "ArrowDown") {
+        scrollBuildBrush(1)
+      }
+      if (key == "ArrowUp") {
+        scrollBuildBrush(-1)
+      }
+    }
   }
 
     if (key.toLowerCase() == "b" && !player.inSubmarine) {
